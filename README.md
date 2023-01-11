@@ -15,11 +15,11 @@ It's a tool for creating a high-quality Team Profile Generator.
 
 ## Installation
 
-```bash
-npm i inquirer@8.2.4
-# or
-npm i jest@29.3.1
-```
+`npm i inquirer@8.2.4`
+
+# and
+
+`npm i jest@29.3.1`
 
 ## Usage
 
@@ -35,10 +35,8 @@ Email to me.
 
 ## Tests
 
-node test
+Run `npm test` to run jest for testing.
 
-## Question
+## Questions
 
-- If you have any question, please feel free to email me
-- Github: [Jasonccfu](https://github.com/Jasonccfu)
-- Email: jason.ccfu@gmail.com
+If you have any questions about this projects, please contact me directly at jason.ccfu@gmail.com. You can view more of my projects at https://github.com/Jasonccfu.
