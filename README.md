@@ -16,6 +16,7 @@ It's a tool for creating a high-quality Team Profile Generator.
 ## Installation
 
 npm i inquirer@8.2.4
+
 npm i jest@29.3.1
 
 ## Usage
