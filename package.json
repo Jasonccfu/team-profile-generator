@@ -1,7 +1,7 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "app to create team profile page",
   "main": "index.js",
   "directories": {
     "lib": "lib"
