@@ -20,7 +20,7 @@ It's a tool for creating a high-quality Team Profile Generator.
 
 ## Usage
 
-[Walkthrough Video](https://watch.screencastify.com/)
+[Walkthrough Video](https://watch.screencastify.com/v/zhwykzL319mMm5ozeika)
 
 ## License
 
@@ -33,6 +33,7 @@ Email to me.
 ## Tests
 
 Run `npm test` to run jest for testing.
+Run `npm start` to start.
 
 ## Questions
 
