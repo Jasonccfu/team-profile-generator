@@ -20,6 +20,8 @@ It's a tool for creating a high-quality Team Profile Generator.
 
 ## Usage
 
+![alt text](imgs/01.png 'my screens')
+
 [Walkthrough Video](https://watch.screencastify.com/v/zhwykzL319mMm5ozeika)
 
 ## License
